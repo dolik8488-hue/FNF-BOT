@@ -1,4 +1,4 @@
-🎮 FNF Text Bot
+🎮 FNF Bot
 
 A modern Friday Night Funkin' AutoPlay Bot.
 
@@ -9,7 +9,6 @@ Created by @Loezs0
 - Smart Note Detection
 - Customizable Keybinds
 - Multiple Note Type Filters
-- Safe Spam Mode
 - Support for Different Key Layouts
 - Modern Black & White Interface
 
