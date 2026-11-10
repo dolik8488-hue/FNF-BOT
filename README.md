@@ -1,5 +1,5 @@
 🎮 FNF Bot
-
+-------------------------------------------------------------
 A modern Friday Night Funkin' AutoPlay Bot.
 
 Created by @Loezs0
