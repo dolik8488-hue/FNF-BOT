@@ -18,7 +18,7 @@ Download the latest version from the Releases section.
 
 📌 Version
 
-V1 Release
+V1.5.0
 
 👤 Creator
 
